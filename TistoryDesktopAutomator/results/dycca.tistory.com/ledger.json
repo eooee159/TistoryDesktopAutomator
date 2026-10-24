@@ -1,0 +1,11 @@
+{
+  "c8685a935925451a767c86ac5af6c35240ae7b8c9d772355923524e8f2df4606": {
+    "status": "REVIEW_REQUIRED_NO_RETRY",
+    "row": 2,
+    "title": "티스토리 자동화 입력 예시 1",
+    "when": "2026-10-24T02:04:49.301341",
+    "post_url": "",
+    "evidence": "C:\\Users\\SJD\\OneDrive\\Desktop\\TistoryDesktopAutomator\\results\\dycca.tistory.com\\20261024\\row0002_c8685a9359_티스토리 자동화 입력 예시 1",
+    "reason": "RuntimeError: 글 관리 목록에서 이번 제목을 찾지 못했습니다. 발행 여부를 수동 확인하세요."
+  }
+}

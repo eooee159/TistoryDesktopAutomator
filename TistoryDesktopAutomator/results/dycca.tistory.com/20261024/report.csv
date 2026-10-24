@@ -1,0 +1,4 @@
+﻿처리시각,엑셀행,제목,상태,게시글URL,제목검증,본문검증,캡처폴더,비고
+2026-10-24 01:59:10,2,티스토리 자동화 입력 예시 1,TEST_ONLY_NOT_PUBLISHED,,False,False,C:\Users\SJD\OneDrive\Desktop\TistoryDesktopAutomator\results\dycca.tistory.com\20261024\row0002_c8685a9359_티스토리 자동화 입력 예시 1,테스트: 입력 화면만 캡처함. 실제 발행은 하지 않음.
+2026-10-24 02:02:18,2,티스토리 자동화 입력 예시 1,TEST_ONLY_NOT_PUBLISHED,,False,False,C:\Users\SJD\OneDrive\Desktop\TistoryDesktopAutomator\results\dycca.tistory.com\20261024\row0002_c8685a9359_티스토리 자동화 입력 예시 1,테스트: 입력 화면만 캡처함. 실제 발행은 하지 않음.
+2026-10-24 02:04:49,2,티스토리 자동화 입력 예시 1,REVIEW_REQUIRED_NO_RETRY,,False,False,C:\Users\SJD\OneDrive\Desktop\TistoryDesktopAutomator\results\dycca.tistory.com\20261024\row0002_c8685a9359_티스토리 자동화 입력 예시 1,RuntimeError: 글 관리 목록에서 이번 제목을 찾지 못했습니다. 발행 여부를 수동 확인하세요.

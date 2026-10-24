@@ -1,0 +1,39 @@
+{
+  "xlsx": "C:/Users/SJD/OneDrive/Desktop/TistoryDesktopAutomator/샘플_게시글.xlsx",
+  "home": "https://dycca.tistory.com/manage/newpost",
+  "writer": "https://dycca.tistory.com/manage/newpost",
+  "manage": "https://dycca.tistory.com/manage/newpost",
+  "delay": "2.5",
+  "max_screens": "3",
+  "points": {
+    "title": [
+      800,
+      560
+    ],
+    "body": [
+      951,
+      772
+    ],
+    "complete": [
+      2696,
+      1644
+    ],
+    "public": [
+      863,
+      1023
+    ],
+    "publish": [
+      1465,
+      1554
+    ],
+    "latest_view": [
+      2321,
+      527
+    ]
+  },
+  "screen_size": [
+    2880,
+    1800
+  ],
+  "use_public": false
+}
